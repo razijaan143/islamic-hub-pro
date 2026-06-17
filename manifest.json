@@ -1,0 +1,26 @@
+{
+  "name": "IslamicHub Pro",
+  "short_name": "IslamicHub",
+  "description": "Your Complete Islamic Companion - Namaz Times, Quran, Hadith, Duas, Tasbeeh, Qibla and more!",
+  "start_url": "/islamic-hub-pro/index.html",
+  "scope": "/islamic-hub-pro/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#2ecc71",
+  "orientation": "portrait",
+  "version": "1.0",
+  "icons": [
+    {
+      "src": "/islamic-hub-pro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/islamic-hub-pro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
